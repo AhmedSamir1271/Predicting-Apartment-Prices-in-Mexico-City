@@ -1,5 +1,5 @@
 # Predicting-Apartment-Prices-in-Mexico-City
-##A minimal Data Science Project.
+## A minimal Data Science Project.
 
 ```
 What I learn from this project:
